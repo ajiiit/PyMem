@@ -1,6 +1,6 @@
 # PyMem
 PyMem a powerful graphical user interface (GUI) tool for neuro-memristive hardware-software co-designthat uses Keras Python to implement multiple Memristor models on multiple neural architectures that can be used to analyze their working under a wide range of hardware variability. 
-P. team. (2023) PyMem python memristor. [Online]. Available: http://54.221.71.158:8501/
+P. team. (2023) PyMem python memristor. [Online]. Available: https://github.com/aswaniar/pymem-gui
 
 **GETTING STARTED**
 
